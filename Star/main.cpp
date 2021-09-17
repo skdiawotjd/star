@@ -19,6 +19,6 @@ int main() {
         }
         cout << endl;
     }
-    cout << "end";
+    cout << "add";
     return 0;
 }
