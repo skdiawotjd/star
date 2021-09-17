@@ -20,5 +20,6 @@ int main() {
         cout << endl;
     }
     cout << "add";
+    cout << "add 02";
     return 0;
 }
