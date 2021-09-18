@@ -21,6 +21,7 @@ int main() {
     }
     cout << "add";
     cout << "add 02";
+    cout << "add 03";
 
     return 0;
 }
